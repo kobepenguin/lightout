@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">exer3_arenillo_b7l</string>
+    <string name="block1">01</string>
+    <string name="block2">02</string>
+    <string name="block3">03</string>
+    <string name="block4">04</string>
+    <string name="block5">05</string>
+    <string name="block6">11</string>
+    <string name="block7">12</string>
+    <string name="block8">13</string>
+    <string name="block9">14</string>
+    <string name="block10">15</string>
+    <string name="block11">21</string>
+    <string name="block12">22</string>
+    <string name="block13">23</string>
+    <string name="block14">24</string>
+    <string name="block15">25</string>
+    <string name="block16">31</string>
+    <string name="block17">32</string>
+    <string name="block18">33</string>
+    <string name="block19">34</string>
+    <string name="block20">35</string>
+    <string name="block21">41</string>
+    <string name="block22">42</string>
+    <string name="block23">43</string>
+    <string name="block24">44</string>
+    <string name="block25">45</string>
+</resources>

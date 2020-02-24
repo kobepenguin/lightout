@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/blck21"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block21"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/blck16" />
+
+    <TextView
+        android:id="@+id/blck1"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="234dp"
+        android:text="@string/block1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/blck17"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block17"
+        app:layout_constraintStart_toEndOf="@+id/blck16"
+        app:layout_constraintTop_toBottomOf="@+id/blck12" />
+
+    <TextView
+        android:id="@+id/blck22"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block22"
+        app:layout_constraintStart_toEndOf="@+id/blck21"
+        app:layout_constraintTop_toBottomOf="@+id/blck17" />
+
+    <TextView
+        android:id="@+id/blck16"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block16"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/blck11" />
+
+    <TextView
+        android:id="@+id/blck2"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="234dp"
+        android:text="@string/block2"
+        app:layout_constraintStart_toEndOf="@+id/blck1"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/blck20"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block20"
+        app:layout_constraintStart_toEndOf="@+id/blck19"
+        app:layout_constraintTop_toBottomOf="@+id/blck15" />
+
+    <TextView
+        android:id="@+id/blck10"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block10"
+        app:layout_constraintStart_toEndOf="@+id/blck9"
+        app:layout_constraintTop_toBottomOf="@+id/blck5" />
+
+    <TextView
+        android:id="@+id/blck23"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block23"
+        app:layout_constraintStart_toEndOf="@+id/blck22"
+        app:layout_constraintTop_toBottomOf="@+id/blck18" />
+
+    <TextView
+        android:id="@+id/blck8"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block8"
+        app:layout_constraintStart_toEndOf="@+id/blck7"
+        app:layout_constraintTop_toBottomOf="@+id/blck3" />
+
+    <TextView
+        android:id="@+id/blck24"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block24"
+        app:layout_constraintStart_toEndOf="@+id/blck23"
+        app:layout_constraintTop_toBottomOf="@+id/blck19" />
+
+    <TextView
+        android:id="@+id/blck13"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block13"
+        app:layout_constraintStart_toEndOf="@+id/blck12"
+        app:layout_constraintTop_toBottomOf="@+id/blck8" />
+
+    <TextView
+        android:id="@+id/blck14"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block14"
+        app:layout_constraintStart_toEndOf="@+id/blck13"
+        app:layout_constraintTop_toBottomOf="@+id/blck9" />
+
+    <TextView
+        android:id="@+id/blck19"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block19"
+        app:layout_constraintStart_toEndOf="@+id/blck18"
+        app:layout_constraintTop_toBottomOf="@+id/blck14" />
+
+    <TextView
+        android:id="@+id/blck12"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block12"
+        app:layout_constraintStart_toEndOf="@+id/blck11"
+        app:layout_constraintTop_toBottomOf="@+id/blck7" />
+
+    <TextView
+        android:id="@+id/blck11"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block11"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/blck6" />
+
+    <TextView
+        android:id="@+id/blck4"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="234dp"
+        android:text="@string/block4"
+        app:layout_constraintStart_toEndOf="@+id/blck3"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/blck5"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="234dp"
+        android:text="@string/block5"
+        app:layout_constraintStart_toEndOf="@+id/blck4"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/blck3"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="234dp"
+        android:text="@string/block3"
+        app:layout_constraintStart_toEndOf="@+id/blck2"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/blck25"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block25"
+        app:layout_constraintStart_toEndOf="@+id/blck24"
+        app:layout_constraintTop_toBottomOf="@+id/blck20" />
+
+    <TextView
+        android:id="@+id/blck6"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="43dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/blck1" />
+
+    <TextView
+        android:id="@+id/blck18"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block18"
+        app:layout_constraintStart_toEndOf="@+id/blck17"
+        app:layout_constraintTop_toBottomOf="@+id/blck13" />
+
+    <TextView
+        android:id="@+id/blck9"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block9"
+        app:layout_constraintStart_toEndOf="@+id/blck8"
+        app:layout_constraintTop_toBottomOf="@+id/blck4" />
+
+    <TextView
+        android:id="@+id/blck15"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block15"
+        app:layout_constraintStart_toEndOf="@+id/blck14"
+        app:layout_constraintTop_toBottomOf="@+id/blck10" />
+
+    <TextView
+        android:id="@+id/blck7"
+        android:layout_width="59dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/block7"
+        app:layout_constraintStart_toEndOf="@+id/blck6"
+        app:layout_constraintTop_toBottomOf="@+id/blck2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
